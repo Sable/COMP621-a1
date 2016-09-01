@@ -1,0 +1,13 @@
+{
+    "type": "experiment",
+    "short-name": "comp621-a1",
+    "dependencies": [
+        "https://github.com/Sable/ostrich-matlab-concatenate-compiler.git",
+        "https://github.com/Sable/ostrich-matlab-environment/archive/v1.0.0-socs-2013a.tar.gz",
+        "https://github.com/Sable/ostrich-matlab-environment/archive/v1.0.0-socs-2013a-nojit.tar.gz",
+        "https://github.com/Sable/ostrich-matlab-environment/archive/v1.0.1-socs-2014b.tar.gz",
+        "https://github.com/Sable/ostrich-matlab-environment/archive/v1.0.0-socs-2015b.tar.gz",
+        "https://github.com/Sable/ostrich-matlab-environment/archive/v1.0.0-socs-2016a.tar.gz",
+        "https://github.com/Sable/ostrich-octave-environment.git"
+    ]
+}
